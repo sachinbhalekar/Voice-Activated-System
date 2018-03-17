@@ -1,0 +1,5 @@
+OnIndexCapture tell me about event number {OnIndex}
+OnIndexCapture number {OnIndex}
+OnDateCapture Tell me about events on {OnDate}
+OnDateCapture one on {OnDate}
+OnDateCapture Tell me about events in {OnDate}

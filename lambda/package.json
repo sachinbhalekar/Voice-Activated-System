@@ -1,0 +1,7 @@
+{
+  "author": "MerryOscar",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "amazon-date-parser": "^0.2.0"
+  }
+}

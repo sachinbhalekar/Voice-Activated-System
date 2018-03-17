@@ -1,0 +1,106 @@
+{
+    "languageModel": {
+        "invocationName": "c sun calendar",
+        "intents": [
+            {
+                "name": "AMAZON.CancelIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "AMAZON.HelpIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "AMAZON.StopIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "OnDateCapture",
+                "slots": [
+                    {
+                        "name": "OnDate",
+                        "type": "AMAZON.DATE"
+                    }
+                ],
+                "samples": [
+                    "Tell me about events on {OnDate} ",
+                    "one on {OnDate}",
+                    "Tell me about events in {OnDate}"
+                ]
+            },
+            {
+                "name": "OnIndexCapture",
+                "slots": [
+                    {
+                        "name": "OnIndex",
+                        "type": "AMAZON.NUMBER"
+                    }
+                ],
+                "samples": [
+                    "tell me about event number {OnIndex}",
+                    "number {OnIndex}"
+                ]
+            }
+        ],
+        "types": []
+    },
+    "dialog": {
+        "intents": [
+            {
+                "name": "OnDateCapture",
+                "confirmationRequired": false,
+                "prompts": {},
+                "slots": [
+                    {
+                        "name": "OnDate",
+                        "type": "AMAZON.DATE",
+                        "confirmationRequired": false,
+                        "elicitationRequired": true,
+                        "prompts": {
+                            "elicitation": "Elicit.Intent-OnDateCapture.IntentSlot-OnDate"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OnIndexCapture",
+                "confirmationRequired": false,
+                "prompts": {},
+                "slots": [
+                    {
+                        "name": "OnIndex",
+                        "type": "AMAZON.NUMBER",
+                        "confirmationRequired": false,
+                        "elicitationRequired": true,
+                        "prompts": {
+                            "elicitation": "Elicit.Intent-OnIndexCapture.IntentSlot-OnIndex"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "prompts": [
+        {
+            "id": "Elicit.Intent-OnDateCapture.IntentSlot-OnDate",
+            "variations": [
+                {
+                    "type": "PlainText",
+                    "value": "Can you please repeat the date"
+                }
+            ]
+        },
+        {
+            "id": "Elicit.Intent-OnIndexCapture.IntentSlot-OnIndex",
+            "variations": [
+                {
+                    "type": "PlainText",
+                    "value": "Can you please repeat which one?"
+                }
+            ]
+        }
+    ]
+}
