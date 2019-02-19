@@ -1,7 +1,20 @@
 {
-  "author": "MerryOscar",
+  "name": "csun-calendar",
+  "version": "1.0.0",
+  "description": "A calendar reading skill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Sachin and Sumit",
+  "license": "Apache-2.0",
   "dependencies": {
-    "alexa-sdk": "^1.0.6",
-    "amazon-date-parser": "^0.2.0"
+    "alexa-sdk": "^1.0.25",
+    "ical": "^0.5.0"
   }
 }

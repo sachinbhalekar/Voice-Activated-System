@@ -1,0 +1,824 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal v2.13//NONSGML kigkonsult.se iCalcreator 2.18//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Events Feed
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20181104T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RDATE:20191103T020000
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190310T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.200561.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20170824T204758Z
+DESCRIPTION:**Please note: This is a FOUR DAY workshop held on July 17, 19
+ , 24, & 26,  2018.*\n\nParticipants will have the opportunity to: raise
+  their awareness of  aggressive behavior, recognize how aggressive behavi
+ or impacts their lives,  learn steps to avoid aggressive behavior, consi
+ der how they can be part of  reducing aggression and violence, and practi
+ ce hands-on self-defense skills  to resist and escape aggressive behavior 
+ directed toward them. This program  is designed to empower participants to
+  make safer choices when confronted  with aggressive behavior. \n\n*Regist
+ ration Information:*\n\n*Students and Community Members: Registration [1]*
+ \n\n*Faculty & Staff - How to Register:*\n\n 1) Visit CSUN's Employee Lear
+ ning & Training site via the myNorthridge  Portal: https://ds.calstate.edu
+ /?svc=skillsoft&org=csun [2];  2) Select the 'Instructor Led Training Ses
+ sions' link under Upcoming Events,  and scroll until you find the name an
+ d date of the program;  3) Select 'Actions,' and select 'Enroll in this 
+ Session.'\n\nShortly after you successfully enroll, you’ll receive an ema
+ il  notification. If you click on the calendar icon in the message, your 
+ outlook  calendar will open allowing you to place the item as an appointme
+ nt on your  calendar.\n\nIf you require an accommodation to attend this pr
+ ogram, please contact the  Human Resources at x 6566 at least 7 business 
+ days in advance of the program.\n\n \n\n\n[1] https://docs.google.com/form
+ s/d/1ZyOFbokRuDlBxm5FN0sSNUwpcsmJGdXaNUXPCc_K5M8/edit [2] https://ds.calst
+ ate.edu/?svc=skillsoft&amp;org=csun
+DTSTART;TZID=America/Los_Angeles:20180717T173000
+DTEND;TZID=America/Los_Angeles:20180717T203000
+LAST-MODIFIED:20180409T172040Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:RAD for Men - A Self-Defense Workshop
+URL;TYPE=URI:https://www.csun.edu/police/events/rad-men-self-defense-worksh
+ op
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.148416.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20160726T163824Z
+DESCRIPTION:The 5-day radKIDS (Resisting Aggression Defensively) program te
+ aches  positive, safe choices for children to handle abuse, bullying and
+  abduction  as well as everyday safety issues. It gives children confidenc
+ e, skills and  self-esteem to recognize, resist and if necessary, escap
+ e violence. The 10-hour program is taught over the course of five, two-ho
+ ur days and  covers a wide range of subjects including, but not limited t
+ o: * Safety at home, at play and at school * Vehicle & personal safety * 
+ Responses to bullying * Realistic physical defense skills against abductio
+ n * Good, bad and uncomfortable touch * Internet safety * Planning for em
+ ergencies such as fire and natural disasters Cost per child is $10 for all
+  five days and includes all materials and a  parent manual.Class size is l
+ imited. Parents are encouraged, but not  required, to attend. radKIDS al
+ so entitles graduated radkids to practice and  return until their 13th bir
+ thday, FREE! 
+DTSTART;TZID=America/Los_Angeles:20180709T173000
+DTEND;TZID=America/Los_Angeles:20180713T193000
+LAST-MODIFIED:20180313T151421Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:radKIDS - Personal Empowerment Safety Education (5-7 years)
+URL;TYPE=URI:https://www.csun.edu/police/events/radkids_5-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.218346.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180104T185745Z
+DESCRIPTION:-------- ANDRZEJ WAJDA RETROSPECTIVE --------------------------
+ --------------\n\n.... /Afterimage /(/Powidoki/)\n\n(dir. Andrzej Wajda, 
+ 2016), 98 mins\n\nThe story of charismatic painter Wladyslaw Strzeminski\
+ , who opposed social  realism and maintained his own artistic freedom in s
+ pite of political  obstacles. [IMDB.com]
+DTSTART;TZID=America/Los_Angeles:20180517T190000
+DTEND;TZID=America/Los_Angeles:20180517T190000
+LAST-MODIFIED:20180108T165447Z
+LOCATION:Armer Theater (MZ100). Doors open at 6:45pm
+SUMMARY:Afterimage (Powidoki)
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/cinema
+ -television-arts/events/afterimage-powidoki
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.218341.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180104T184453Z
+DESCRIPTION:-------- ANDRZEJ WAJDA RETROSPECTIVE --------------------------
+ --------------\n\n.... /Sweet Rush /(/Tatarak/)  SCREENING CANCELLED\n\n(d
+ ir.Andrzej Wajda, 2009), 83 mins\n\nIn small-town Poland in the late 195
+ 0s, an aging woman married to a  workaholic doctor meets a young man who 
+ makes her feel young again. Framed  around this story, lead actress Kryst
+ yna Janda discusses the death of her  husband from cancer. [IMDB.com]\n\n 
+DTSTART;TZID=America/Los_Angeles:20180510T190000
+DTEND;TZID=America/Los_Angeles:20180510T190000
+LAST-MODIFIED:20180416T044616Z
+LOCATION:Armer Theater (MZ100). SCREENING CANCELLED
+SUMMARY:Sweet Rush (Tatarak)
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/cinema
+ -television-arts/events/sweet-rush-tatarak
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.218331.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180104T181021Z
+DESCRIPTION:-------- ANDRZEJ WAJDA RETROSPECTIVE --------------------------
+ --------------\n\n.... /A Chronicle of Amorous Accidents /(/Kronika wypadk
+ ów miłosnych/)\n\n(dir. Andrzej Wajda, 1986), 116 mins\n\nSet in the sum
+ mer months preceding the September 1939 outbreak of World War  II in Polis
+ h part of Lithuania. A young highschool lad, Witek, is hoping to  pass t
+ he entrance exams to the university. His love interest is Alina, his  hig
+ h-school colleague. [/Polish Cinema Database]/
+DTSTART;TZID=America/Los_Angeles:20180503T190000
+DTEND;TZID=America/Los_Angeles:20180503T190000
+LAST-MODIFIED:20180416T045918Z
+LOCATION:Armer Theater (MZ100). Doors open at 6:45pm
+SUMMARY:A Chronicle of Amorous Accidents (Kronika wypadków miłosnych)
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/cinema
+ -television-arts/events/chronicle-amorous-accidents-kronika
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.220491.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180117T211417Z
+DESCRIPTION:....  \n\n.... Jack Wall & Studio Ensemble\n\n*Jack Wall* is an
+  ASCAP award-winning and BAFTA nominated composer best known  for his rich
+ , cinematic scores found within popular video game franchises  such as Ca
+ ll of Duty: Black Ops II & III, Mass Effect I & II, the Myst  series, J
+ ade Empire and several other franchises winning multiple awards for  his w
+ ork. Wall is currently composing for the supernatural drama television  se
+ ries Shadowhunters: The Mortal Instruments airing on Disney’s Freeform  TV
+ . He has also written additional music score for numerous other TV series 
+  including the fantasy drama series Reign on the CW and Emerald City on NB
+ C as  well as scoring the hi-octane action film Hard Target 2 available on
+  Netflix.  Shadowhunters Season 3 premieres in March 2018 on Freeform, On
+  Demand and  Hulu.\n\nWall is celebrated among a Hollywood elite of compos
+ ers invited to score the  world’s biggest interactive entertainment proper
+ ty, Call of Duty. For Black  Ops II he crafted an adrenaline-fueled, dee
+ ply emotional and adventurous  musical palette that took the blockbuster s
+ eries in new sonic directions.  Black Ops II received the Best Video Game 
+ Score Award at the ASCAP Film and  Television Music Awards. Reuniting with
+  Treyarch Studios and Activision for  Black Ops III, his follow-up score 
+ displays the hallmarks of an epic,  sophisticated narrative, combining f
+ uturistic hybrid sounds, homages to  classic WWII orchestral music and ev
+ en big band and swing numbers created  specifically for the Zombie campaig
+ n. Featuring highlight solo performances  from contemporary jazz vocalist 
+ Antonia Bennett, daughter of legendary singer  Tony Bennett, Black Ops I
+ II was nominated GameTrailers’ Soundtrack of the  Year.\n\nCollaborating w
+ ith the world’s leading game studios, Wall is widely  recognized for comp
+ osing some of the most iconic scores for the medium. Wall  created the dis
+ tinctive musical signature for BioWare’s sci-fi epic Mass  Effect, combin
+ ing ’80s electronica, synthetic instrumentation and  futuristic atmospher
+ es. The soundtrack won numerous accolades, while  achieving cult status w
+ ith fans. Wall received British Academy (BAFTA) and  Spike TV nominations 
+ for his work on Mass Effect 2.\n\nComposing for and conducting a full symp
+ hony orchestra and master chorale,  Wall first garnered attention with hi
+ s dramatic score for Ubisoft’s Myst  III: Exile, receiving universal crit
+ ical acclaim including several Soundtrack  of the Year honors. For the cli
+ mactic sequel, Myst IV: Revelation, Wall was  awarded Music of the Year 
+ at the Game Developers Conference.\n\nWith Jade Empire, Wall crafted a Ch
+ inese and Asian instrumental palette  incorporating an “East meets West” a
+ pproach. Working with authentic  Pan-Asian instruments Wall crafted an exo
+ tic, percussion-driven score to  enhance the mythological Chinese setting
+ . The score was voted Best Original  Soundtrack Album by the Game Audio Ne
+ twork Guild.\n\nIn addition to his composing achievements, Wall served as
+  Music Director and  co-producer for composer/librettist Cindy Shapiro’s P
+ SYCHE: A Modern Rock  Opera, an innovative modern retelling of the ancien
+ t Greek. He also  co-created Video Games Live and served as its Music Dire
+ ctor/Conductor from  2005 through 2010 performing with more than fifty of 
+ the world’s finest  orchestras including the Los Angeles Philharmonic, Ho
+ llywood Bowl Orchestra  and London Philharmonia Orchestra.\n\nWall was co-
+ founder of The Game Audio Network Guild and is a frequent  speaker/instruc
+ tor at various educational institutions such as Columbia  College, USC, 
+ UCLA, Expressions Center for New Media, The Los Angeles  Recording Schoo
+ l and Berklee College in Boston.\n\nContinuing to raise the bar for emotio
+ nal, performance-driven scores at the  highest level, Wall’s repertoire 
+ encompasses a diverse range of musical  styles and influences: from ethere
+ al ambience, choral crescendos and heavy  tribal orchestra to traditional
+  Asian, Middle-Eastern, Eastern European  instrumentation, futuristic e
+ lectronic soundscapes and big band jazz recorded  with the world’s top mus
+ icians. For more information visit www.jackwall.net  [1].\n\n.... To purch
+ ase tickets online, click here [2]!*  [3]*\n\n \n\n*Performance Date:* We
+ dnesday, May 9, 2018 -- Doors open at 7pm\n\n* Venue: *Soraya Great Hall
+ -VPAC\n\n\n[1] http://www.jackwall.net [2] https://www1.ticketmaster.com/m
+ edia-composition-studio-ensemble-northridge-california-05-09-2018/event/0B
+ 005432A13F146D?artistid=1791949&amp;majorcatid=10001&amp;minorcatid=52&a
+ mp;tm_link=venue_msg-0_0B005432A13F146D [3] https://www1.ticketmaster.com
+ /media-composition-studio-ensemble-northridge-california-05-09-2018/event/
+ 0B005432A13F146D?artistid=1791949&amp;majorcatid=10001&amp;minorcatid=52
+ &amp;tm_link=venue_msg-0_0B005432A13F146D
+DTSTART;TZID=America/Los_Angeles:20180509T193000
+DTEND;TZID=America/Los_Angeles:20180509T193000
+LAST-MODIFIED:20180419T194022Z
+LOCATION:Soraya Great Hall - Valley Performing Arts Center / Doors open 30 
+ min. before  performance
+SUMMARY:Jack Wall & Studio Ensemble
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/music/
+ events/jack-wall-studio-ensemble
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.220466.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180117T204301Z
+DESCRIPTION:....  \n\n.... CSUN Symphony and the Youth Philharmonic Gala Co
+ llaboration\n\nFeaturing works by Rachmaninoff and Tchaikovsky\n\n* Perfor
+ mance Date:* Sunday, May 6, 2018 -- Doors open at 1:30pm\n\n* Venue: *So
+ raya Great Hall in the VPAC
+DTSTART;TZID=America/Los_Angeles:20180506T140000
+DTEND;TZID=America/Los_Angeles:20180506T140000
+LAST-MODIFIED:20180118T181657Z
+LOCATION:Soraya Great Hall - Valley Performing Arts Center / Doors open 30 
+ min. before  performance
+SUMMARY:CSUN Symphony and the Youth Philharmonic Gala Collaboration
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/music/
+ events/csun-symphony-and-youth-philharmonic-gala
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.220446.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180117T202839Z
+DESCRIPTION:....  \n\n.... CSUN's Choral & Symphony\n\nIn The Soraya Great 
+ Hall of the VPAC, the CSUN Symphony Orchestra (directed  by Dr. John Rosc
+ igno) and the combined CSUN choirs (Northridge Singers,  Master Chorale,
+  University Chorus, Women's Chorale directed by Professor Paul  Smith and
+  Dr. Katherine Ramos Baker) will be presenting two exemplary choral  works
+  by exemplary composers:\n\n * /Missa in angustiis/ (/Mass in Time of Trou
+ ble/, also known as /The Lord  Nelson Mass/) by Franz Joseph Haydn, and 
+    * /Requiem/ by Gabriel Faure.\n\n* Performance Date:* Thursday, May 10
+ , 2018 -- Doors open at 7pm\n\n* Venue: *Soraya Great Hall in the VPAC
+DTSTART;TZID=America/Los_Angeles:20180510T193000
+DTEND;TZID=America/Los_Angeles:20180510T193000
+LAST-MODIFIED:20180228T162956Z
+LOCATION:Soraya Great Hall - Valley Performing Arts Center / Doors open 30 
+ min. before  performance
+SUMMARY:CSUN's Choral & Symphony
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/music/
+ events/csuns-choral-symphony
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.220426.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180117T185457Z
+DESCRIPTION:....  \n\n.... Goldberg String Quartet\n\nRecital works by Hayd
+ n, Schubert, and Shostakovich.\n\nCSUN’s Samuel Goldberg Honors String Q
+ uartet is named in recognition of the  Samuel Goldberg Foundation for its 
+ longtime generous patronage, with special  thanks to trustee Michael Levi
+ ne for making the foundation's annual gift  possible. Substantial support 
+ for the quartet also comes from David and Gita  Kronen.\n\nThe group consi
+ sts of:\n\n * Madeleine Hogue, First Violin  * Joshua Rim, Second Violin
+   * Greg Von Notias, Viola  * Michael Gintz, Cello\n\n*Performance Date:
+ * Saturday, May 5, 2018 -- Doors open at 7pm\n\n* Venue: *Cypress Recita
+ l Hall
+DTSTART;TZID=America/Los_Angeles:20180505T193000
+DTEND;TZID=America/Los_Angeles:20180505T193000
+LAST-MODIFIED:20180423T175504Z
+LOCATION:Cypress Recital Hall / Doors open 30 min before performance
+SUMMARY:Goldberg String Quartet
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/music/
+ events/goldberg-string-quartet-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.220396.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180117T182552Z
+DESCRIPTION:....  \n\n.... Wind Ensemble \n\nAmong the innumerable collegia
+ te wind ensembles found throughout North  America, a select few have dist
+ inguished themselves from the pack of others.  These distinguished few pos
+ sess an established heritage of musical excellence  while keeping a steadf
+ ast vision toward a relevant and profound musical  future. The Wind Ensemb
+ le at CSUN is among these distinguished few. The CSUN  Wind Ensemble has l
+ ong been a hallmark of the excellence associated with the  university’s re
+ nowned music department. With both an accomplished legacy  and dedicated f
+ uture, students entering the ranks of the CSUN Wind Ensemble  and Wind Sy
+ mphony find themselves immersed in artistry and musical  performance.* *\n
+ \n*Performance Date:* Thursday, May 3, 2018 -- Doors open at 7pm\n\n* Ve
+ nue: *Plaza del Sol Performance Hall
+DTSTART;TZID=America/Los_Angeles:20180503T193000
+DTEND;TZID=America/Los_Angeles:20180503T193000
+LAST-MODIFIED:20180118T181657Z
+LOCATION:Plaza del Sol Performance Hall / Doors open 30 min. before perform
+ ance
+SUMMARY:Wind Ensemble
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/music/
+ events/wind-ensemble-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.222841.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180201T183842Z
+DESCRIPTION:Summertime gives us an opportunity to take the chore out of  em
+ ergency  preparedness and make it fun for the whole family.  Learn various
+  techniques  to practice your emergency preparedness skills and test your 
+ supplies through  outdoor event planning, camping, hiking, and road tri
+ p activities.  Want  some tech-free time for your kids?  Set up “power out
+ age” survival night  in the backyard and enjoy time  together while taking
+  inventory of what you  have and items you can add to your next shopping l
+ ist. \n\n*Faculty and Staff - How to Register:*\n\n 1) Visit CSUN's Employ
+ ee Learning & Training site via the myNorthridge  Portal: https://ds.calst
+ ate.edu/?svc=skillsoft&org=csun [1];  2) Select the 'Instructor Led Train
+ ing Sessions' link under Upcoming Events,  and scroll until you find the 
+ name and date of the program;  3) Select 'Actions,' and select 'Enroll i
+ n this Session.'\n\nShortly after you successfully enroll, you’ll receive
+  an email  notification. If you click on the calendar icon in the message\
+ , your outlook  calendar will open allowing you to place the item as an ap
+ pointment on your  calendar.\n\nIf you require an accommodation to attend 
+ this program, please contact the  Human Resources at x 6566 at least 7 bu
+ siness days in advance of the program.\n\n*Students and Community: Registr
+ ation [2]*\n\n\n[1] https://ds.calstate.edu/?svc=skillsoft&amp;org=csun [
+ 2] https://docs.google.com/forms/d/e/1FAIpQLSfg9wsZFFrZjJhzxayqhCfXdVyz9Zj
+ 3NiKBg1xzSrdYyrGkiQ/viewform?usp=send_form
+DTSTART;TZID=America/Los_Angeles:20180614T103000
+DTEND;TZID=America/Los_Angeles:20180614T120000
+LAST-MODIFIED:20180228T091044Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:Disaster Ready - Making Emergency Preparedness Fun with the Family
+URL;TYPE=URI:https://www.csun.edu/police/events/disaster-ready-making-emerg
+ ency-preparedness-fun-family
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.222836.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180201T183410Z
+DESCRIPTION:First responders are essential to the success of emergency oper
+ ations –  whether they are saving lives, protecting property, or providi
+ ng essential  services.  Families of first responders may have to survive 
+ without their  responder’s input on important decisions in the immediate a
+ ftermath of an  emergency.  Having a plan and knowing your family is prepa
+ red to cope in an  emergency or disaster enables first responders to focus
+  on the critical  missions that support their  community. An overview of e
+ mergency  preparedness action steps will be discussed (communications, em
+ ergency kits,  financial prep) in addition to identifying signs of critic
+ al incident stress  and related  response measures.  Topics discussed appl
+ icable to military  families with deployed service members as well.\n\n*Fa
+ culty and Staff - How to Register:*\n\n 1) Visit CSUN's Employee Learning 
+ & Training site via the myNorthridge  Portal: https://ds.calstate.edu/?svc
+ =skillsoft&org=csun [1];  2) Select the 'Instructor Led Training Sessions
+ ' link under Upcoming Events,  and scroll until you find the name and dat
+ e of the program;  3) Select 'Actions,' and select 'Enroll in this Sessi
+ on.'\n\nShortly after you successfully enroll, you’ll receive an email  n
+ otification. If you click on the calendar icon in the message, your outlo
+ ok  calendar will open allowing you to place the item as an appointment on
+  your  calendar.\n\nIf you require an accommodation to attend this program
+ , please contact the  Human Resources at x 6566 at least 7 business days 
+ in advance of the program.\n\n *Students and Community: Registration  [2]*
+ \n\n\n[1] https://ds.calstate.edu/?svc=skillsoft&amp;org=csun [2] https:/
+ /docs.google.com/forms/d/e/1FAIpQLScyL9gVOUaQd7H9HPXCGdtjXlt1leQMppoUuWGwV
+ o5vmxz9gw/viewform?usp=send_form
+DTSTART;TZID=America/Los_Angeles:20180503T123000
+DTEND;TZID=America/Los_Angeles:20180503T132500
+LAST-MODIFIED:20180228T091044Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:Disaster Ready - Emergency Preparedness for First Responders and Th
+ eir  Families
+URL;TYPE=URI:https://www.csun.edu/police/events/disaster-ready-emergency-pr
+ eparedness-first-responders-and-their-families
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.222821.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180201T174751Z
+DESCRIPTION:This course will be an overview of personal preparedness tips a
+ nd  recommendations for a variety of hazards.  Participants will learn abo
+ ut the  most likely hazards in Southern California, how to find out if th
+ eir home is  located in a hazard zone, and what individuals can do at hom
+ e to prepare for  emergency and disaster situations and will introduce the
+  concepts of family  emergency plans and kits.\n\n*Faculty and Staff - How
+  to Register:*\n\n 1) Visit CSUN's Employee Learning & Training site via t
+ he myNorthridge  Portal: https://ds.calstate.edu/?svc=skillsoft&org=csun [
+ 1];  2) Select the 'Instructor Led Training Sessions' link under Upcoming
+  Events,  and scroll until you find the name and date of the program;  3
+ ) Select 'Actions,' and select 'Enroll in this Session.'\n\nShortly after
+  you successfully enroll, you’ll receive an email  notification. If you c
+ lick on the calendar icon in the message, your outlook  calendar will ope
+ n allowing you to place the item as an appointment on your  calendar.\n\nI
+ f you require an accommodation to attend this program, please contact the
+   Human Resources at x 6566 at least 7 business days in advance of the pro
+ gram.\n\n**Student & Community Members: Registration [2]**\n\n\n[1] https:
+ //ds.calstate.edu/?svc=skillsoft&amp;org=csun [2] https://docs.google.com
+ /forms/d/e/1FAIpQLScMsb2QVVO4QiCOasr__1tVcym71v60sOHDNg_TdgHZLouXgQ/viewfo
+ rm?usp=send_form
+DTSTART;TZID=America/Los_Angeles:20180627T123000
+DTEND;TZID=America/Los_Angeles:20180627T132500
+LAST-MODIFIED:20180409T171706Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:Disaster Ready - Personal Preparedness 101
+URL;TYPE=URI:https://www.csun.edu/police/events/disaster-ready-personal-pre
+ paredness-101
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.223466.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180205T213738Z
+DESCRIPTION:For those considering the option to carry or employ any aerosol
+  defense  spray, this workshop covers a basic understanding of: the legis
+ lative intent,  criminal & civil liabilities, moral principles, regulat
+ ing citizens’  possession & use of aerosol defense sprays; the chemical a
+ nd mechanical  properties; psychological & physiological effects; princi
+ ples of aerosol  defense first aid & decontamination & the principles for 
+ maintaining, storing  & disposing of aerosol defense sprays. Workshop inc
+ ludes hands-on demo with  an inert canister.  Option to purchase a persona
+ l canister for your use at  the conclusion of the workshop is $6.\n\n*Facu
+ lty and Staff - How to Register:*\n\n 1) Visit CSUN's Employee Learning & 
+ Training site via the myNorthridge  Portal: https://ds.calstate.edu/?svc=s
+ killsoft&org=csun [1];  2) Select the 'Instructor Led Training Sessions' 
+ link under Upcoming Events,  and scroll until you find the name and date 
+ of the program;  3) Select 'Actions,' and select 'Enroll in this Session
+ .'\n\nShortly after you successfully enroll, you’ll receive an email  not
+ ification. If you click on the calendar icon in the message, your outlook
+   calendar will open allowing you to place the item as an appointment on y
+ our  calendar.\n\nIf you require an accommodation to attend this program,
+  please contact the  Human Resources at x 6566 at least 7 business days in
+  advance of the program.\n\n*Student & Community Members: Registration [2]
+ *\n\n\n[1] https://ds.calstate.edu/?svc=skillsoft&amp;org=csun [2] https:
+ //docs.google.com/forms/d/1tyB7kwahlSawwCC4MNY6qbO3hk75rzJggd6AQH-jXAo/edi
+ t
+DTSTART;TZID=America/Los_Angeles:20181204T173000
+DTEND;TZID=America/Los_Angeles:20181204T203000
+LAST-MODIFIED:20180207T170805Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:The Basics of Pepper Spray Defense
+URL;TYPE=URI:https://www.csun.edu/police/events/basics-pepper-spray-defense
+ -5
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.223456.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180205T213516Z
+DESCRIPTION:For those considering the option to carry or employ any aerosol
+  defense  spray, this workshop covers a basic understanding of: the legis
+ lative intent,  criminal & civil liabilities, moral principles, regulat
+ ing citizens’  possession & use of aerosol defense sprays; the chemical a
+ nd mechanical  properties; psychological & physiological effects; princi
+ ples of aerosol  defense first aid & decontamination & the principles for 
+ maintaining, storing  & disposing of aerosol defense sprays. Workshop inc
+ ludes hands-on demo with  an inert canister.  Option to purchase a persona
+ l canister for your use at  the conclusion of the workshop is $6.\n\n*Facu
+ lty and Staff - How to Register:*\n\n 1) Visit CSUN's Employee Learning & 
+ Training site via the myNorthridge  Portal: https://ds.calstate.edu/?svc=s
+ killsoft&org=csun [1];  2) Select the 'Instructor Led Training Sessions' 
+ link under Upcoming Events,  and scroll until you find the name and date 
+ of the program;  3) Select 'Actions,' and select 'Enroll in this Session
+ .'\n\nShortly after you successfully enroll, you’ll receive an email  not
+ ification. If you click on the calendar icon in the message, your outlook
+   calendar will open allowing you to place the item as an appointment on y
+ our  calendar.\n\nIf you require an accommodation to attend this program,
+  please contact the  Human Resources at x 6566 at least 7 business days in
+  advance of the program.\n\n*Student & Community Members: Registration [2]
+ *\n\n\n[1] https://ds.calstate.edu/?svc=skillsoft&amp;org=csun [2] https:
+ //docs.google.com/forms/d/1tyB7kwahlSawwCC4MNY6qbO3hk75rzJggd6AQH-jXAo/edi
+ t
+DTSTART;TZID=America/Los_Angeles:20181003T173000
+DTEND;TZID=America/Los_Angeles:20181003T203000
+LAST-MODIFIED:20180207T170805Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:The Basics of Pepper Spray Defense
+URL;TYPE=URI:https://www.csun.edu/police/events/basics-pepper-spray-defense
+ -4
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.116006.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20150817T182208Z
+DESCRIPTION:*Presented By:  Stacey Nowak, Police Services*\n\nThis worksho
+ p will help you understand what identity theft is, how criminals  obtain 
+ your personal information and how to detect, deter & defend yourself  aga
+ inst victimization.\n\n*Students and Community Members: Registration [1]*
+ \n\n*Faculty and Staff - Register for this session in Three Easy Steps:*\n
+ \n 1) Visit CSUN's Employee Learning & Training site via the myNorthridge 
+  Portal: https://ds.calstate.edu/?svc=skillsoft&org=csun [2];  2) Select 
+ the 'Instructor Led Training Sessions' link under Upcoming Events,  and s
+ croll until you find the name and date of the program;  3) Select 'Action
+ s,' and select 'Enroll in this Session.'\n\nShortly after you successfull
+ y enroll, you’ll receive an email  notification. If you click on the cale
+ ndar icon in the message, your outlook  calendar will open allowing you t
+ o place the item as an appointment on your  calendar.\n\nIf you require an
+  accommodation to attend this program, please contact the  Human Resource
+ s at x 6566 at least 7 business days in advance of the program.\n\n* *\n\n
+ * *\n\n\n[1] https://docs.google.com/forms/d/1tDlGCMBpav97vUK_k7ZoKBb7OgA9
+ LV3e_5-G0Q7c_sM/edit [2] https://ds.calstate.edu/?svc=skillsoft&amp;org=c
+ sun
+DTSTART;TZID=America/Los_Angeles:20181107T173000
+DTEND;TZID=America/Los_Angeles:20181107T182000
+LAST-MODIFIED:20180207T170838Z
+LOCATION:Department of Police Services, 2nd Floor Training Room
+SUMMARY:Identity Theft Prevention
+URL;TYPE=URI:https://www.csun.edu/police/events/identity-theft-prevention-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.227826.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180308T163659Z
+DESCRIPTION:Civil Discourse & Social Change is organizing 'Civil Discourse 
+ & Social  Change Student Symposium.' The purpose is to feature student pre
+ sentations on  research and creative activity that bridges scholarship and
+  social change. We  are particularly interested in showcasing works that c
+ ritically  and reflectively interrogate an aspect of society, especially 
+ as it relates  to power relations, and contributes to advancing social ju
+ stice and  transformative change. Please see the attached Call for Papers\
+ ,  Presentations and Creative Works. The deadline for student abstracts  i
+ s *March 23rd, 2018 at 5:00 pm.*  Please share with your undergraduate  a
+ nd graduate students.
+DTSTART;TZID=America/Los_Angeles:20180501T090000
+DTEND;TZID=America/Los_Angeles:20180501T160000
+LAST-MODIFIED:20180312T173516Z
+LOCATION:Northridge Center
+SUMMARY:Civil Discourse and Social Change Student Symposium
+URL;TYPE=URI:https://www.csun.edu/undergraduate-studies/community-engagemen
+ t/events/civil-discourse-and-social-change-student
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.229451.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180318T170901Z
+DESCRIPTION:Join us to discover how faculty are using eLearning strategies 
+ and   academic innovation to increase equity and transform teaching and le
+ arning  at CSUN. The Showcase will feature lunch and a keynote address by 
+ Tia Brown  McNair, Vice President for the Office of Diversity, Equity, 
+ and Student  Success at the Association of American Colleges & Universitie
+ s (AAC&U). All  are invited.\n\n*Thursday, May 10, 2018 | 11 a.m. - 3:30
+  p.m.* *Ferman Presentation Room, Oviatt Library*\n\n/(American Sign Lang
+ uage interpreters will be provided.) /
+DTSTART;TZID=America/Los_Angeles:20180510T110000
+DTEND;TZID=America/Los_Angeles:20180510T153000
+LAST-MODIFIED:20180319T152814Z
+LOCATION:Oviatt Library, Ferman Presentation Room
+SUMMARY:eLearning and Academic Innovation Showcase
+URL;TYPE=URI:https://www.csun.edu/faculty-showcase/events/elearning-and-aca
+ demic-innovation-showcase
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.230366.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180322T231319Z
+DESCRIPTION:Due to popular demand, we are bringing back CSUN Night at Dodg
+ er Stadium for  the first time since 2015! Join your fellow Matadors at Do
+ dger Stadium to  root on the National League Champions as they take on the
+  Arizona  Diamondbacks on Saturday night Sept. 1. As part of the package,
+  you will  receive a dual-branded CSUN/Dodgers cap and $5 of your purchase
+  will be  donated to CSUN for alumni programs and services.\n\nPreferred R
+ eserve - $38 Preferred Loge Box Value - $55 Coca-Cola RF 'All-You-Can-Eat'
+  Pavilion - $59
+DTSTART;TZID=America/Los_Angeles:20180901T181000
+DTEND;TZID=America/Los_Angeles:20180901T181000
+LAST-MODIFIED:20180402T151738Z
+LOCATION:Dodger Stadium; 1000 Vin Scully Ave. Los Angeles, CA 90012
+SUMMARY:CSUN Night at Dodger Stadium
+URL;TYPE=URI:https://www.csun.edu/alumni/events/csun-night-dodger-stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.231711.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180403T232423Z
+DESCRIPTION:On Oct. 13, 2018, we will celebrate the Matador Spirit and re
+ cognize the 60th  anniversary of CSUN with a Grand Reunion. Matadors of al
+ l ages will enjoy  entertainment, food trucks, a wine and beer garden, 
+ and so much more... \n\nCheck out www.csun.edu/60 [1] for an updated weeke
+ nd schedule and to let us  know if you're coming!\n\n\n[1] https://www.csu
+ n.edu/60
+DTSTART;TZID=America/Los_Angeles:20181013T140000
+DTEND;TZID=America/Los_Angeles:20181013T180000
+LAST-MODIFIED:20180404T152148Z
+LOCATION:CSUN Oviatt Lawn
+SUMMARY:CSUN's 60th Grand Reunion
+URL;TYPE=URI:https://www.csun.edu/60/events/csuns-60th-grand-reunion
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.232451.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180410T185918Z
+DESCRIPTION:GWS students present their research to the CSUN community. Topi
+ cs of this  year are: EO1100 and the Crisis of the University, Feminism i
+ n High School,  Asian American Female Leaders, Racial Discrimination in 
+ Healthcare, Policing  the LGBTQ Community, Mass Incarceration, Female M
+ asculinity, Instagram as a  Tool of Resistance, Mental Health Issues in 
+ Migrant Communities, and Child  Marriage in the US.\n\n*Featuring interna
+ tional Panel Dialogues across the Colonial Divide at  4PM **with*\n\nAura 
+ Cumes, Ph. D. Maya Kaqchikel anthropologist from Guatemala\n\nKarina Ocho
+ a, Ph.D., Autonomous Metropolitan University-Azcapotzalco, Mexico\n\nKi
+ mberly Robertson, Ph.D., California State University, Los Angeles\n\n*S
+ ponsored by: COH, IGGD, GWS, CHS, CS, AAS, and WRRC*
+DTSTART;TZID=America/Los_Angeles:20180502T090000
+DTEND;TZID=America/Los_Angeles:20180502T180000
+LAST-MODIFIED:20180412T161638Z
+LOCATION:Oviatt Library Ferman Presentation Room
+SUMMARY:14th Annual Gender & Women’s Student Conference
+URL;TYPE=URI:https://www.csun.edu/humanities/gender-womens-studies/events/1
+ 4th-annual-gender-women%E2%80%99s-student-conference
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.233281.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180417T034431Z
+DESCRIPTION:======== *EVA BRETTLER, HOLOCAUST SURVIVOR* ==================
+ ================\n\nEva Brettler, a survivor of the Ravensbruck concentra
+ tion camp, will be  speaking about her experiences before, during, and 
+ after the Holocaust.\n\nFree, RSVP requested.  Please call (818) 677-4724
+  [1] or  email jewish.studies@csun.edu [2] to reserve a seat to request a 
+ seat. For  your convenience, a map to the event [3] is provided.\n\n\n[1]
+  tel:%28818%29%20677-4724 [2] mailto:jewish.studies@csun.edu [3] https://w
+ ww.csun.edu/sites/default/files/Sierra%20Hall%20%282017%29_0.jpg
+DTSTART;TZID=America/Los_Angeles:20180503T093000
+DTEND;TZID=America/Los_Angeles:20180503T104500
+LAST-MODIFIED:20180417T151524Z
+LOCATION:Sierra Hall 314
+SUMMARY:Eva Brettler, Holocaust Survivor
+URL;TYPE=URI:https://www.csun.edu/humanities/jewish-studies/events/eva-bret
+ tler-holocaust-survivor-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.233271.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180417T012547Z
+DESCRIPTION:-------- *ANITA - FREE PUBLIC SCREENING  * --------------------
+ -----------------------------------------------\n\nThis award-winning film
+  by renowned filmmaker Marcos Carnevale tells the  story of Anita Feldman\
+ , a vulnerable young woman who lives in Buenos Aires  with her mother.  Du
+ ring the 1994 bombing of the AIMA Jewish Community  Center – the most leth
+ al bombing in Argentina’s history – Anita is  separated from her mother.  
+ Without her, Anita wanders through the city  seeking food and shelter.  B
+ oth heartwarming and tragic, this Argentinian  film explores the possibil
+ ities for community and compassion in a modern  urban setting.\n\n*1 hour\
+ , 44 minutes, in Spanish with English subtitles, followed by  discussion
+  with CSUN Jewish Studies faculty.*\n\nRSVP required. Please call (818) 67
+ 7-4724 [1] or  email jewish.studies@csun.edu [2] to reserve a seat (maximu
+ m 2 seats per  request – names for each seat are required).\n\nFor your co
+ nvenience, a map [3] to the event is provided.\n\nCo-Sponsored by Adat Ar
+ i El, Temple Ahavat Shalom, Temple Ramat Zion, Valley  Beth Shalom, an
+ d Hillel 818.\n\n\n[1] tel:%28818%29%20677-4724 [2] mailto:jewish.studies@
+ csun.edu [3] https://www.google.com/maps/dir/''/google+maps+laemmle+5/@34.
+ 1598521,-118.5777901,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80c29835d
+ 871de5b:0x100ce2b6be746c11!2m2!1d-118.50775!2d34.159872
+DTSTART;TZID=America/Los_Angeles:20180506T100000
+DTEND;TZID=America/Los_Angeles:20180506T120000
+LAST-MODIFIED:20180417T151524Z
+LOCATION:Laemmle's Town Center 5 17200 Ventura Blvd. Encino, CA 91316
+SUMMARY:Anita - free public screening
+URL;TYPE=URI:https://www.csun.edu/humanities/jewish-studies/events/anita-fr
+ ee-public-screening
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.230566.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180323T223804Z
+DESCRIPTION:Family and Consumer Sciences’ Apparel Design and Merchandising 
+ students  produce this professional quality show— from the first stitch, 
+ to the last  zip they create it all with this evening out at an art museum
+ .\n\nGot a passion for fashion art? (Wanna find out?) Come to the show!\n
+ \n*Sunday, April 29th, 6:00 P.M.* Tickets available at the Associated St
+ udents  Box Office by the Plaza del Sol Performance Hall. $20 general audi
+ ences / $15  students with CSUN ID.\n\n\n \n\n \n\n\n* *
+DTSTART;TZID=America/Los_Angeles:20180429T180000
+DTEND;TZID=America/Los_Angeles:20180429T200000
+LAST-MODIFIED:20180417T151524Z
+LOCATION:Plaza del Sol Performance Hall
+SUMMARY:TRENDS Student Fashion Show
+URL;TYPE=URI:https://www.csun.edu/health-human-development/events/trends-st
+ udent-fashion-show
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.233471.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180418T004203Z
+DESCRIPTION:Students - What would you want from a CSUN Multipurpose Event C
+ enter? Attend  the Student Forum and Open House and enjoy some free food a
+ nd share your  thoughts! Grab a friend or two and stop by the USU, Grand 
+ Salon anytime from  10am - 2pm on May 2nd. \n\n 
+DTSTART;TZID=America/Los_Angeles:20180502T100000
+DTEND;TZID=America/Los_Angeles:20180502T140000
+LAST-MODIFIED:20180418T152306Z
+LOCATION:USU, Grand Salon
+SUMMARY:Student Forum and Open House CSUN Multipurpose Event Center
+URL;TYPE=URI:https://www.csun.edu/node/71991/events/student-forum-and-open-
+ house-csun-multipurpose-event-center
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.233441.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180417T222930Z
+DESCRIPTION:Join us as we celebrate Asian American Pacific Islander Month (
+ AAPI) Heritage  Month at the Oviatt Library with SFV-based restaurateurs a
+ nd food bloggers.\n\nMeet our Home-cooked panelists:\n\n*Tien Nguyen, Los
+  Angeles food writer*\n\nTien Nguyen is a food and culture writer in Los A
+ ngeles. She co-authored the  /New York Times /bestseller /L.A. Son: My Lif
+ e, My City, My Food/ with Roy  Choi, and her work has appeared in the /
+ Los Angeles Times/ and /Lucky Peach/.  www.tien.la [1]\n\n*Carissa Ortega\
+ , owner of Ninong Pastries *\n\nCarissa is a serial entrepreneur - venturi
+ ng into industries such as the  graphic design, ecommerce, entertainment
+ , real estate, and restaurant  industries. One of the highlights of her 
+ career is Ninong’s Cafe, a family  owned and operated business that first
+  opened its doors in October of 2008.  After almost 10 years, she and her
+  family moved their cafe to a larger space  in Northridge with the goal of
+  sharing their family’s Filipino recipes and  culture with the world. She’
+ s extremely passionate about entrepreneurship  and mentoring, and has tak
+ en her knowledge to not only build her businesses  but also help others do
+  the same. In her spare time, you can find her binging  a good TV show, 
+ having drinks with friends, experimenting with new recipes,  and trying 
+ new food! carissa@ninongspastries.com [2]\n\n*Kristine de la Cruz, Creme 
+ Caramel *\n\nPartners, Kristine de la Cruz and Sean Gilleland, strive to
+  develop comfort  food with a twist while providing a community base for t
+ he surrounding  neighborhood at Crème Caramel LA, a custard + confection 
+ dessert shop  specializing in traditional and Filipino inspired ingredient
+ s and recipes.  Kristine and Sean started in 2010 as a farmers’ market swe
+ et booth and  later opened a sweet bakeshop in Sherman Oaks in 2013. Their
+  crème caramels,  custard pies, and bread puddings, formed the base of 
+ the sweet offerings, but  since opening their storefront, they’ve expand
+ ed their menu to savory  quiches and stratas, and other delectable pastri
+ es and baked goods.  http://www.cremecaramella.com/talk-and-love/ [3]\n\nD
+ iscussion topics include:\n\n * Honoring one’s heritage/connecting with th
+ e past/nostalgia/inheritance  and meaning-making through cooking and/or ea
+ ting the ancestral cuisine.  * Self-actualization; telling one’s story; 
+ traditional, or home-cooked,  dishes with a modern/Angeleno multicultura
+ l twist; living in the present  and planning for the future. One’s legacy
+  and a different kind of oral  history.  * Politics: immigration policies\
+ , dredging up bad memories of the 1882  Chinese Exclusionary Act and 1924 
+ Asian Exclusionary Act and Japanese  internment. Cultural appropriation wh
+ ile people are being detained and  deported, and stereotypes of immigrant
+  restaurants: health code  violations, bad service, etc. Los Angeles and
+  the Rodney King riots/model  minority. Restaurants as a cultural bridge/e
+ ducation/revolution re:  Momofuku’s David Chang challenging the American n
+ otions of sanitized  ethnic cuisine with the Netflix show /Ugly Delicious/
+ .\n\nA complimentary assortment of flavorful, cultural food samples will 
+ be  provided.\n\n.... Resources\n\nhttp://www.chicagotribune.com/dining/ct
+ -food-chop-suey-houses-history-0214-story.html  [4]\n\n\n\n[1] http://www.
+ tien.la [2] mailto:carissa@ninongspastries.com [3] http://www.cremecaramel
+ la.com/talk-and-love/ [4] http://www.chicagotribune.com/dining/ct-food-cho
+ p-suey-houses-history-0214-story.html
+DTSTART;TZID=America/Los_Angeles:20180501T160000
+DTEND;TZID=America/Los_Angeles:20180501T180000
+LAST-MODIFIED:20180418T192213Z
+LOCATION:Oviatt Library - Main Floor - ASRS Viewing Room
+SUMMARY:AAPI Heritage Month Panel: “Home-Cooked”
+URL;TYPE=URI:https://www.csun.edu/calendar/library/events/aapi-home-cooked
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.219901.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180112T185416Z
+DESCRIPTION:....  \n\n-------- 2018 MA/MFA GRADUATE EXHIBITION ------------
+ -------------------------\n\nAn exhibition by CSUN graduate students in al
+ l media of the visual arts  including ceramic, drawing, painting, photo
+ graphy, printmaking, sculpture,  and video.\n\n*Exhibition Dates: *\n\n
+ Sat., May 5 — Sat., May 26, 2018 *Gallery Hours:* Mon. — Sat. from 12 p
+ .m — 4 p.m. Thurs. 12 p.m. — 8 p.m. \n\n*Venue:*  Main Gallery, Art and D
+ esign Center \n\n 
+DTSTART;TZID=America/Los_Angeles:20180505T120000
+DTEND;TZID=America/Los_Angeles:20180526T120000
+LAST-MODIFIED:20180425T151720Z
+LOCATION:Main Art Gallery
+SUMMARY:2018 MA/MFA Graduate Exhibition
+URL;TYPE=URI:https://www.csun.edu/mike-curb-arts-media-communication/art-ga
+ lleries/events/2018-mamfa-graduate-exhibition
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.234631.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180426T180434Z
+DESCRIPTION:Join us at the Oviatt Library in the Jack & Florence Ferman Pre
+ sentation Room  for this dynamic two-day event series on gender and sexual
+ ity.\n\n.... *Queer Studies Student Research Symposium*\n\n*Tuesday, May 
+ 1, 2018* 1:00 p.m. - 5:00 p.m.\n\n*Keynote Presentation:*\n\nJennifer Tyb
+ urczy, Associate Professor of Feminist Studies at the University  of Cali
+ fornia, Santa Barbara and author of /Sex Museums: The Politics and  Perfo
+ rmance of Display/. *1:00 p.m*., followed by Queer Studies Student  Resea
+ rch Project presentations.\n\nJennifer’s research focuses on the display o
+ f visual, popular, and material  culture in museums and the global flow 
+ of sexual objects across mapped and  symbolic borders, particularly throu
+ ghout North America, Latin America, and  Western Europe.  More informati
+ on about Jennifer’s book can be found  at University of Chicago Press Book
+ s [1].\n\n.... *14th Annual Gender and Women’s Studies Student Conference*
+ \n\n*Wednesday, May 2, 2018* 9:00 a.m. – 6:00 p.m. \n\nGWS students pres
+ ent their research to the CSUN community. Topics include:  EO1100 and the 
+ Crisis of the University, Feminism in High School, Asian  American Femal
+ e Leaders, Racial Discrimination in Healthcare, Policing the  LGBTQ Comm
+ unity, Mass Incarceration, Female Masculinity, Instagram as a Tool  of 
+ Resistance, Mental Health Issues in Migrant Communities, and Child  Marr
+ iage in the US.\n\n*“Dialogues Across The Colonial Divide: An Evening with
+  Indigenous and  Mestiza Feminists From Abya Yala and Turtle Island” at 4:
+ 00 p.m. with  international panel members:*\n\n * Aura Cumes, Ph. D., Ma
+ ya Kaqchikel anthropologist from Guatemala  * Karina Ochoa, Ph.D., Auton
+ omous Metropolitan University-Azcapotzalco,  Mexico  * Kimberly Robertson
+ , Ph.D., California State University, Los Angeles  * Moderator: Breny M
+ endoza, Mestiza, Honduras\n\nBullough Scholarships will be awarded durin
+ g Rainbow Graduation on May 18,  2018 at 1:00 p.m. at the CSUN Northridge
+  Center, University Student Union\n\nPersons needing disability assistanc
+ e, and deaf and hard of hearing persons  needing interpreters, please ca
+ ll (818) 677-2638 or  email library.event@csun.edu [2] in advance for arra
+ ngements.\n\n*Sponsored by: Gender and Women Studies, Oviatt Library, Qu
+ eer Studies, and  the Pride Center*\n\n\n\n[1] http://press.uchicago.edu/
+ ucp/books/book/chicago/S/bo22053834.html [2] mailto:library.event@csun.edu
+DTSTART;TZID=America/Los_Angeles:20180501T130000
+DTEND;TZID=America/Los_Angeles:20180502T180000
+LAST-MODIFIED:20180427T153256Z
+LOCATION:Oviatt Library, Jack & Florence Ferman Presentation Room
+SUMMARY:Sex in the Library
+URL;TYPE=URI:https://www.csun.edu/calendar/library/events/sex-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.222706.field_event_date.0@www.csun.edu
+DTSTAMP:20180430T065300Z
+CREATED:20180201T042446Z
+DESCRIPTION:  
+DTSTART;TZID=America/Los_Angeles:20180501T090000
+DTEND;TZID=America/Los_Angeles:20180501T170000
+LAST-MODIFIED:20180427T153308Z
+LOCATION:Northridge Center
+SUMMARY:Critical and Social Justice Studies Student Symposium
+URL;TYPE=URI:https://www.csun.edu/civil-discourse-social-change/events/crit
+ ical-and-social-justice-studies-student-symposium
+END:VEVENT
+END:VCALENDAR
